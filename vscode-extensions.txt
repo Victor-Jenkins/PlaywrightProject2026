@@ -1,0 +1,5 @@
+jaktestowac-pl.playwright-helpers
+ms-playwright.playwright
+nitayneeman.playwright-snippets
+ryanrosello-og.playwright-vscode-trace-viewer
+sakamoto66.vscode-playwright-test-runner
